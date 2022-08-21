@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Carlos Lucas</h1>
-<img align="left" alt="Coding" width="230" src="https://polerix.cl/wp-content/uploads/2021/11/2a15bfef34c0c7e2fd03500bebe11025.gif">
+<img align="center" alt="Coding" width="230" src="https://polerix.cl/wp-content/uploads/2021/11/2a15bfef34c0c7e2fd03500bebe11025.gif">
 <h3 align="left">Portafolio:</h3>
 <p align="left"> <a href="https://carloslucasyb.netlify.app/"> <img src="http://www.clker.com/cliparts/E/y/A/X/0/w/view-button-png-hi.png" alt="bootstrap" width="80" height="40"/> </a>
 <p align="left">
