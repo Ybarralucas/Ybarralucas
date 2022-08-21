@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Carlos Lucas</h1>
-<h3 align="left">href="/https://carloslucasyb.netlify.app/"</h3>
+<h3 align="left">https://carloslucasyb.netlify.app</h3>
 <p align="left">
 
 
