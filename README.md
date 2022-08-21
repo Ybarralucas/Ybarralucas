@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Carlos Lucas</h1>
 <h3 align="left">Portafolio:</h3>
-<p align="left"> <a href="https://carloslucasyb.netlify.app/"> <img src="https://e7.pngegg.com/pngimages/559/100/png-clipart-web-page-world-wide-web-website-internet-logo-world-wide-web-text-globe.png" alt="bootstrap" width="40" height="40"/> </a>
+<p align="left"> <a href="https://carloslucasyb.netlify.app/"> <img src="https://img2.freepng.es/20181115/bh/kisspng-portable-network-graphics-world-wide-web-clip-art-mobile-window-tinting-sacramento-glassitint-5bed7dc81d23d9.6761577115422908881194.jpg" alt="bootstrap" width="40" height="40"/> </a>
 <p align="left">
 <img align="right" alt="Coding" width="230" src="https://polerix.cl/wp-content/uploads/2021/11/2a15bfef34c0c7e2fd03500bebe11025.gif">
 
