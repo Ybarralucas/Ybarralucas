@@ -3,7 +3,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Portafolio:</h3>
 <p align="left">
 <a href="/https://carloslucasyb.netlify.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://carloslucasyb.netlify.app/" height="30" width="40" /></a>
 </p>
